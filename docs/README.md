@@ -1,4 +1,4 @@
-# FileShare - Post-Quantum Secure File Sharing Application
+# Post-Quantum Secured File Sharing Application
 
 A Flask-based file sharing application with **Kyber-KEM post-quantum encryption** for future-proof security against quantum adversaries.
 
